@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##hello
-# [Your Name]
+# Noor Aldin
 
 ## About Me
 
@@ -9,9 +9,8 @@ Brief introduction about yourself.
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Data Analysis 
+- Machine learning
 
 ## Projects
 
