@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noor Aldin</h1>
-<h3 align="center">Machin learing developer</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 - 🔭 I’m currently working on **Aware**
 
